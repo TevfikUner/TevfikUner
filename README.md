@@ -19,14 +19,14 @@ Konya Teknik Üniversitesi'nde 3. sınıf Bilgisayar Mühendisliği öğrencisiy
 
 ---
 
-### 🛠 Teknik Cephanelik
-
-| Kategori | Teknolojiler ve Araçlar |
+### 🛠 Technical Stack
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Diller** | <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
-| **Mobil** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> |
-| **Backend & Veritabanı** | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" /> |
-| **Düşük Seviye / Donanım** | <img src="https://img.shields.io/badge/Assembly-4B0082?style=for-the-badge" /> <img src="https://img.shields.io/badge/Logisim-808080?style=for-the-badge" /> |
+| **Languages** | C, Dart, Python |
+| **Mobile** | Flutter, Android Studio |
+| **Backend & Database** | PostgreSQL, Supabase, Firebase, n8n |
+| **Hardware & Low-Level** | Assembly, emu8086, Logisim |
+| **Networking & Tools** | Wireshark |
 
 ---
 
@@ -34,19 +34,6 @@ Konya Teknik Üniversitesi'nde 3. sınıf Bilgisayar Mühendisliği öğrencisiy
 
 * **[Modif-AI]** - Görüntü işleme teknikleri kullanılarak geliştirilen, araç modifikasyonlarını dijital ortamda görselleştiren yenilikçi bir proje.
 * **[Premium Barber App]** - Flutter ve Firebase tabanlı, n8n otomasyonu ile desteklenen uçtan uca randevu yönetim sistemi.
-
----
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TevfikUner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="TevfikUner GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TevfikUner&theme=tokyonight&hide_border=true&layout=compact" alt="TevfikUner Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TevfikUner&theme=tokyonight&hide_border=true" alt="TevfikUner Streak Stats" />
-</p>
 
 ---
 
