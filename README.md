@@ -37,9 +37,11 @@ Konya Teknik Üniversitesi'nde 3. sınıf Bilgisayar Mühendisliği öğrencisiy
 
 ---
 
-### 🔗 İletişim
-<p align="center">
-<a href="https://www.linkedin.com/in/tevfik-üner-0640b43ba" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tevfikuner0@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/tevfikuner" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+### 🔗 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/tevfikuner" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Tevfikuner_" target="blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="mailto:tevfikuner0@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/tevfikuner0" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://leetcode.com/tevfikuner" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 </p>
