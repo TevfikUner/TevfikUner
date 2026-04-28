@@ -19,10 +19,10 @@ Konya Teknik Üniversitesi'nde 3. sınıf Bilgisayar Mühendisliği öğrencisiy
 ### 🛠 Technical Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | C, Dart, Python |
-| **Mobile** | Flutter, Android Studio |
-| **Backend & Database** | PostgreSQL, Supabase, Firebase, n8n |
-| **Hardware & Low-Level** | Assembly, emu8086, Logisim |
+| **Languages** | C , Dart , Python |
+| **Mobile** | Flutter , Android Studio |
+| **Backend & Database** | PostgreSQL , Supabase , Firebase , n8n |
+| **Hardware & Low-Level** | Assembly , emu8086 , Logisim |
 | **Networking & Tools** | Wireshark |
 
 ---
