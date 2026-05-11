@@ -1,7 +1,7 @@
 # <p align="center"> Selam! Ben Tevfik Üner 👋 </p>
 
 ### 🚀 Hakkımda
-Konya Teknik Üniversitesi'nde 3.sınıf Bilgisayar Mühendisliği öğrencisiyim. Mobil uygulama dünyasında **Flutter** ile kullanıcı deneyimi inşa ederken, arka planda **n8n** ve **Supabase** ile sistemleri konuşturuyorum. Donanım tarafında ise **Assembly** ve **ALU** mimarileri üzerinde derinleşiyorum.
+Konya Teknik Üniversitesi'nde 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. Mobil uygulama dünyasında **Flutter** ile kullanıcı deneyimi inşa ederken, arka planda **n8n** ve **Supabase** ile sistemleri konuşturuyorum. Donanım tarafında ise **Assembly** ve **ALU** mimarileri üzerinde derinleşiyorum.
 
 - 📱 **Mobil:** Flutter & Dart ile premium iş çözümleri.
 - ⚙️ **Donanım:** Düşük seviyeli programlama , mikroişlemci ve mikrodenetleyici mantığı.
