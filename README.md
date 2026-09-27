@@ -21,7 +21,7 @@ Konya Teknik Üniversitesi'nde 4. sınıf Bilgisayar Mühendisliği öğrencisiy
 ### 🛠 Technical Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python , Dart , C |
+| **Languages** | Python , Dart , C , Java , HTML |
 | **AI & Data Science** | Deep Learning , Computer Vision , Pandas , Seaborn |
 | **Mobile** | Flutter , Android Studio |
 | **Backend & Cloud** | FastAPI , PostgreSQL , Supabase , Firebase |
