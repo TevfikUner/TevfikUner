@@ -18,7 +18,7 @@ Konya Teknik Üniversitesi'nde 4. sınıf Bilgisayar Mühendisliği öğrencisiy
 
 ---
 
-### 🛠 Technical Stack
+###  Technical Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python , Dart , C , Java , HTML |
