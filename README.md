@@ -1,6 +1,6 @@
 # <p align="center"> Selam! Ben Tevfik Üner 👋 </p>
 
-### 🚀 Hakkımda
+###  Hakkımda
 Konya Teknik Üniversitesi'nde 4. sınıf Bilgisayar Mühendisliği öğrencisiyim. Kariyerime **Flutter** ile mobil uygulamalar ve kullanıcı deneyimleri inşa ederek başlasam da şu an ana odağımı ve tutkumu **Makine Öğrenmesi (ML)**, **Derin Öğrenme (DL)** ve **Görüntü İşleme (Computer Vision)** alanlarına yönlendirmiş durumdayım. Temel mühendislikten ve düşük seviyeli mimarilerden aldığım disiplini, veriden anlamlı sonuçlar çıkaran akıllı yapay zeka sistemleri geliştirmek için kullanıyorum.
 
 - 🧠 **AI & CV:** Görüntü işleme, derin öğrenme algoritmaları ve veri analizi.
