@@ -10,7 +10,7 @@ Konya Teknik Üniversitesi'nde 4. sınıf Bilgisayar Mühendisliği öğrencisiy
 
 ---
 
-### 🌟 Öne Çıkan Projeler
+###  Öne Çıkan Projeler
 
 * **[AI Turbulence Prediction]** - Yapay zeka kullanılarak uçuş rotalarındaki türbülansların tahmini ve CesiumJS ile 3D rota optimizasyonu sağlayan bitirme projem.
 * **[Modif-AI]** - Kurucu ortağı olduğum; görüntü işleme ve 3D dönüşüm modülleri kullanılarak araç modifikasyonlarını dijital ortamda görselleştiren yazılım girişimi.
